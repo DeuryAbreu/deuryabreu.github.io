@@ -24,7 +24,6 @@ img{
     display:block; 
     margin:auto; 
     max-width:100%;
-    background-image url(imagesdefaultsloading.gif);
 }
 header{
     background-color: rgb(121, 134, 203);
